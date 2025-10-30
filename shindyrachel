@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profil saya - shindy rachel hashina</title>
+    <link rel="styylesheet" href=style.css">
+</head>
+<body>
+     <div class="kartu-profil">
+         <img src="foto-profil.jpg" alt="oto profil saya">
+     <hl>shindy rachel hashina</hl>
+     <p>siswa SMA yang tertarik dengan teknologi dan desain. selamat di website kami</p>
+     <a nref=:https://www.instagram.com/ usernameanda:>kunjungi instagram saya</a>
+     <button id="sapabutton">sapa saya!</button>
+  </div>
+</scipt src="script.js"></scipt>
+</body>
+</html>
+
+
